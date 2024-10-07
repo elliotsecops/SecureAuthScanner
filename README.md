@@ -1,2 +1,3 @@
 # SecureAuthScanner
-Tool designed to scan authentication protocols in networks, identifying possible vulnerabilities in the systems. Using the powerful capabilities of the Hydra tool, it allows authentication tests to be performed on various services, while Netcat (nc) is used to obtain additional information and evaluate the network environment. 
+
+Tool designed to scan authentication protocols in networks, identifying possible vulnerabilities in the systems. Using the powerful capabilities of the Hydra tool, it allows authentication tests to be performed on various services, while Netcat (nc) is used to obtain additional information and evaluate the network environment. This minimalist approach makes it easier for cybersecurity professionals, security analysts and audit teams to perform effective authentication security assessments, thus improving the defense of systems and applications in on-premises and cloud environments.
